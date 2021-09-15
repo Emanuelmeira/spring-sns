@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    region:
+      auto: false
+      static: us-east-2
+    credentials:
+      secret-key: XXXXXXXXXX
+      access-key: XXXXXXXXXX
+
+topic: arn:aws:sns:us-east-2:XXXXXXXXX:MyTopic
